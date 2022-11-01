@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(254, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: auto;
+}
+
+.container  {
+    background-color: rgb(102, 4, 25);
+    padding: 1em 1.5em;
+    border-radius: 1em;
+    margin-top: 1em;
+}
+
+h3
+{
+    margin: 1.5em o;
+}
+
+p{
+    margin: 1em 0 0;
+}
+
+h1{
+ margin: 2em 0;   
+}
+
+button {
+    font-family: inherit;
+    font-size: inherit;
+    width: 100%;
+    border-radius: 17px;
+    border: 1px black;
+    padding: 0.5em 0;
+    color: brown;
+}
+
+ul,li {
+margin: 0.5em;
+}
